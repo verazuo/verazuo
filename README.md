@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- Blog: [www.zuozuovera.com](https://www.zuozuovera.com)
+- Weibo: [@左左薇拉vera](https://weibo.com/2748863025/profile)
+
+
+[![Vera's GitHub stats](https://github-readme-stats.vercel.app/api?username=verazuo)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **verazuo/verazuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
