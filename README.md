@@ -9,7 +9,7 @@
 <!-- <a title="visit" target="_blank" href="https://github.com/verazuo"><img src="https://komarev.com/ghpvc/?username=verazuo&&style=flat-square"></a> -->
 </p>
 
-<table><tr><td valign="top" width="60%">
+### About Me
 
 - 🔭 I’m a CS Ph.D. student 👩‍🎓 at [CISPA Helmholtz Center for Information Security](https://cispa.de/en).
   
@@ -20,8 +20,7 @@
 - ⚡ I love reading 📖 , cooking 🍳 , handcrafting 🎨 , RPG games 
 🎮 , and every creative things. I'm trying to fall in love with fitness, but it hasn't worked out yet 😪 .
 
-
-</td><td valign="top" width="35%">
+### 📈Statistics
 
 <div align="center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=verazuo&count_private=true&show_icons=true" />
