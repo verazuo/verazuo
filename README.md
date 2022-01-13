@@ -18,7 +18,7 @@
 - ❓ Curious about what I have written? 👉 [[ My Publication List ]](https://www.zuozuovera.com/publications.html) 
   
 - ⚡ I love reading 📖 , cooking 🍳 , handcrafting 🎨 , RPG games 
-🎮 , and every creative things. I'm trying to fall in love with fitness 🏃, but it hasn't worked out yet 😪 .
+🎮 , and every creative things. I'm trying to fall in love with fitness 🏃‍♀️, but it hasn't worked out yet 😪 .
 
 ### 📈Statistics
 
