@@ -19,12 +19,5 @@
   
 - ⚡ I love reading 📖 , cooking 🍳 , handcrafting 🎨 , RPG games 🎮 , and every creative thing. I'm trying to fall in love with fitness 🏃‍♀️, but it hasn't worked out yet 😪 .
 
-### 📈Statistics
 
-<div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=verazuo&count_private=true&show_icons=true" />
-</div>  
-
-
-</td></tr></table>  
 
