@@ -15,8 +15,6 @@
   
 - 🌱 I’m also a sci-fiction writer 🖨 and publish novels on Science Fiction World (《科幻世界》) and so on.
 
-- ❓ Curious about what I have written? 👉 [[ My Publication List ]](https://www.zuozuovera.com/publications/) 
-  
 - ⚡ I love reading 📖 , handcrafting 🎨 , RPG games 🎮 , and every creative thing. I'm trying to fall in love with fitness 🏃‍♀️, but it hasn't worked out yet 😪 .
 
 
