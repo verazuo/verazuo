@@ -9,7 +9,7 @@
 
 ### About Me
 
-- 🔭 I’m a Ph.D. student 👩‍🎓 at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), focused on Trustworthy Machine Learning Security.
+- 🔭 I’m a Ph.D. student 👩‍🎓 at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), focused on Trustworthy Machine Learning.
   
 - 🌱 I’m also a sci-fiction writer 🖨 and publish novels on Science Fiction World (《科幻世界》) and so on.
 
